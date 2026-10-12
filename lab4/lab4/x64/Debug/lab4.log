@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\project\lab4\lab4\Source.c(8,2): warning C4013: z1: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab4\lab4\Source.c(9,2): warning C4013: z2: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab4\lab4\Source.c(10,2): warning C4013: z3: нет определения; предполагается "extern" с возвратом типа "int"
+D:\project\lab4\lab4\Source.c(49,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  lab4.vcxproj -> D:\project\lab4\x64\Debug\lab4.exe
